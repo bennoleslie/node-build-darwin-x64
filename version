@@ -1,0 +1,1 @@
+git@github.com:bennoleslie/node.git 7be50c5e5506f79241a26ae57731d9668af8eece </Users/benno/node_hacking/node/tools/waf-light --jobs=1 configure --prefix=../node-build>
